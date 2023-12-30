@@ -23,6 +23,7 @@ h1{
     font-size: xx-large;
     font-weight: bold;
     color: chocolate;
+    cursor: pointer;
 }
 .reset-btn{
     width: 100px;
@@ -34,6 +35,7 @@ h1{
     background-color: rgb(210, 30, 87);
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 span{
